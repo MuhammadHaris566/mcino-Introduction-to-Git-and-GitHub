@@ -1,0 +1,9 @@
+Command:
+curl -s https://api.github.com/repos/MuhammadHaris566/mcino-Introduction-to-Git-and-GitHub | grep -E '"full_name"|"fork"|"parent"'
+
+Terminal Output:
+"fork": true,
+  "parent": {
+.    "fork": false,
+    "fork": false,
+.

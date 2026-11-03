@@ -1,0 +1,15 @@
+Command:
+git checkout main
+
+Terminal Output:
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+Command:
+git merge bug-fix-typo
+
+Terminal Output:
+Updating a1d0572..4840c68
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
